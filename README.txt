@@ -1,0 +1,1 @@
+Los botones de siguiente y previo se esconden cuando el raton no esta encima, utilizando para que no desaparezca el toolbar un filler
